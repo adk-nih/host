@@ -275,8 +275,8 @@ const DataBot = {
                 apikey: '3f3ab5ce5b8ac4b67fd03758366f708a5ba1c',
             }
         },
-        ip: '20.92.250.201',
-        pwroot: '@@Rif99',
+        ip: '20.213.47.147',
+        pwroot: '@@RIF010299',
         grup: ['120363023833759590@g.us']
     },
     server5: {
