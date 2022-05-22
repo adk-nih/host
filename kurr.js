@@ -280,19 +280,19 @@ const DataBot = {
         grup: ['120363023833759590@g.us']
     },
     server5: {
-        nama: '',
+        nama: '*KOVEXNESIA*',
         cloudflare: {
-            listdomain: { '1': '' },
-            zona: { '1': '' },
-            tersedia: ['1'],
+            listdomain: { '1': 'terbaru457.my.id', '2': 'xcnx.my.id' },
+            zona: { '1': '71d771400007b43692d498db18c1110d', '2': '75a4a524cd9a1dec9a450743780d1a6d' },
+            tersedia: ['1','2'],
             data: {
-                email: '',
-                apikey: '',
+                email: 'tsaqifot@gmail.com',
+                apikey: 'f9f8a3d53f1997248f02ae1add7a678e30a30',
             }
         },
-        ip: '',
-        pwroot: '',
-        grup: ['']
+        ip: '20.239.142.62',
+        pwroot: '@@Tsaqif89',
+        grup: ['120363023873378837@g.us']
     },
     server6: {
         nama: '',
@@ -1495,7 +1495,7 @@ module.exports = kurr = async (kurr, mek) => {
                 break
             case 'speed':
             case 'ping':
-                ini_txt = ` Bot Merespon Dalam ${latensyi.toFixed(4)} DETIK
+                ini_txt = ` *Bot Merespon Dalam ${latensyi.toFixed(4)} DETIK*
                 `
                 reply(ini_txt); console.log(from)
                 break
