@@ -282,7 +282,7 @@ const DataBot = {
     server5: {
         nama: '*KOVEXNESIA*',
         cloudflare: {
-            listdomain: { '1': 'terbaru457.my.id', '2': 'xcnx.my.id' },
+            listdomain: { '1': '.terbaru457.my.id', '2': '.xcnx.my.id' },
             zona: { '1': '71d771400007b43692d498db18c1110d', '2': '75a4a524cd9a1dec9a450743780d1a6d' },
             tersedia: ['1','2'],
             data: {
