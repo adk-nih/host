@@ -123,7 +123,7 @@ function msg_addpkg(a, b, c, d, e, f, g) {
     if (e) return 'Error kak' //debug: e => f
 }
 function msg_domain(a, b, c, d, e, f, g, h, i, j, k, xa) {
-    if (a) return `Penggunaan ${j} domain|nomor`
+    if (a) return `Penggunaan ${j} nomor|domain`
     if (b) return `Penggunaan format salah`
     if (c) return 'harus berupa angka!!!'
     if (d) return 'Gagal, input nama domainnya'
@@ -220,19 +220,19 @@ function msg_cekstatus(a,b,c,d,e,f,g,xx,zz){
 let faketeks = 'DS Hosting BOT✔️'
 const DataBot = {
     server1: {
-        nama: 'Domain',
+        nama: '*DSEXNESIA*',
         cloudflare: {
-            listdomain: { '1': '.dosg.my.id', '2': '.hottnews.my.id', },
-            zona: { '1': 'd3a05d3c45a7668e5ac85e4fbafd9c13', '2': '765fad593529ba57dd9362484d841079', },
+            listdomain: { '1': '.dosg.my.id', '2': '.astk.xyz' },
+            zona: { '1': 'd3a05d3c45a7668e5ac85e4fbafd9c13', '2': 'c355195c5b7b68b90fd40ba49a5d51bf' },
             tersedia: ['1','2'],
             data: {
                 email: 'storedika441@gmail.com',
                 apikey: 'b3bfe83814619f9e52888aafa29f6f0179935',
             }
         },
-        ip: '20.213.47.147',
-        pwtumbal: 'kp)7]i7{#$v,',
-        grup: ['120363041436970369@g.us']
+        ip: '70.34.251.83',
+        pwroot: 'Y4{oRRue9bSmLt6G',
+        grup: ['120363041199947223@g.us']
     },
     server2: {
         nama: 'KINGNESIA',
@@ -290,7 +290,7 @@ const DataBot = {
                 apikey: 'f9f8a3d53f1997248f02ae1add7a678e30a30',
             }
         },
-        ip: '20.239.142.62',
+        ip: '20.190.106.22',
         pwroot: '@@Tsaqif89',
         grup: ['120363023873378837@g.us']
     },
