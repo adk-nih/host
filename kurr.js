@@ -217,21 +217,21 @@ function msg_cekstatus(a,b,c,d,e,f,g,xx,zz){
 
 
 
-let faketeks = 'DS Hosting BOT✔️'
+let faketeks = 'DsNesia BOT✔️'
 const DataBot = {
     server1: {
-        nama: '*DSEXNESIA*',
+        nama: '*DSNESIA*',
         cloudflare: {
-            listdomain: { '1': '.dosg.my.id', '2': '.astk.xyz' },
-            zona: { '1': 'd3a05d3c45a7668e5ac85e4fbafd9c13', '2': 'c355195c5b7b68b90fd40ba49a5d51bf' },
-            tersedia: ['1','2'],
+            listdomain: { '1': '.dosg.my.id', '2': '.astk.xyz', '3': '.hottnews.my.id' },
+            zona: { '1': 'd3a05d3c45a7668e5ac85e4fbafd9c13', '2': 'c355195c5b7b68b90fd40ba49a5d51bf', '3': '765fad593529ba57dd9362484d841079' },
+            tersedia: ['1','2','3'],
             data: {
                 email: 'storedika441@gmail.com',
                 apikey: 'b3bfe83814619f9e52888aafa29f6f0179935',
             }
         },
-        ip: '70.34.251.83',
-        pwroot: 'Y4{oRRue9bSmLt6G',
+        ip: '20.70.15.199',
+        pwroot: 'Dsnesiaserver1',
         grup: ['120363041199947223@g.us']
     },
     server2: {
