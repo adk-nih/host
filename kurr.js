@@ -231,7 +231,7 @@ const DataBot = {
             }
         },
         ip: '20.70.15.199',
-        pwroot: 'Dsnesiaserver1',
+        pwWhm: 'Dsnesiaserver1',
         grup: ['120363041199947223@g.us']
     },
     server2: {
