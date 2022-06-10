@@ -123,7 +123,7 @@ function msg_addpkg(a, b, c, d, e, f, g) {
     if (e) return 'Error kak' //debug: e => f
 }
 function msg_domain(a, b, c, d, e, f, g, h, i, j, k, xa) {
-    if (a) return `Penggunaan ${j} nomor|domain`
+    if (a) return `Penggunaan ${j} domain|nomor`
     if (b) return `Penggunaan format salah`
     if (c) return 'harus berupa angka!!!'
     if (d) return 'Gagal, input nama domainnya'
@@ -217,10 +217,10 @@ function msg_cekstatus(a,b,c,d,e,f,g,xx,zz){
 
 
 
-let faketeks = 'DsNesia BOT✔️'
+let faketeks = 'DsNesia Bot☑️'
 const DataBot = {
     server1: {
-        nama: '*DSNESIA*',
+        nama: '*DSNESIA Host*',
         cloudflare: {
             listdomain: { '1': '.dosg.my.id', '2': '.astk.xyz', '3': '.hottnews.my.id' },
             zona: { '1': 'd3a05d3c45a7668e5ac85e4fbafd9c13', '2': 'c355195c5b7b68b90fd40ba49a5d51bf', '3': '765fad593529ba57dd9362484d841079' },
@@ -231,68 +231,67 @@ const DataBot = {
             }
         },
         ip: '20.70.15.199',
-        pwWhm: 'Dsnesiaserver1',
+        pwroot: 'Dsnesiaserver1',
         grup: ['120363041199947223@g.us']
-    },
     server2: {
-        nama: 'KINGNESIA',
+        nama: '',
         cloudflare: {
-            listdomain: { '1': '.dyko.my.id', '2': '.simontokk.my.id', '3': '.dyko.online' },
-            zona: { '1': '25ad1fd33a04751b2edb0c48543268ee', '2': 'fe6c0348082f804572375ea12b92b38b', '3': '4267574e520766917229bf56e152c0c0' },
-            tersedia: ['1','2','3'],
-            data: {
-                email: 'storedika441@gmail.com',
-                apikey: 'b3bfe83814619f9e52888aafa29f6f0179935',
-            }
-        },
-        ip: '188.166.186.19',
-        pwroot: '##10042002##XXX',
-        grup: ['120363024437802277@g.us']
-    },
-    server3: {
-        nama: 'INDEXNESIA',
-        cloudflare: {
-            listdomain: { '1': '.dyko.my.id' },
-            zona: { '1': '25ad1fd33a04751b2edb0c48543268ee' },
+            listdomain: { '1': '' },
+            zona: { '1': '' },
             tersedia: ['1'],
             data: {
-                email: 'storedika441@gmail.com',
-                apikey: 'b3bfe83814619f9e52888aafa29f6f0179935',
+                email: '',
+                apikey: '',
             }
         },
-        ip: '20.211.42.102',
-        pwroot: '@@ftmnroot@@#_',
-        grup: ['120363041715939262@g.us']
+        ip: '',
+        pwroot: '',
+        grup: ['']
+    },
+    server3: {
+        nama: '',
+        cloudflare: {
+            listdomain: { '1': '' },
+            zona: { '1': '' },
+            tersedia: ['1'],
+            data: {
+                email: '',
+                apikey: '',
+            }
+        },
+        ip: '',
+        pwroot: '',
+        grup: ['']
     },
     server4: {
-        nama: '*FRIENDEXNESIA*',
+        nama: '',
         cloudflare: {
-            listdomain: { '1': '.1999rif.com', '2': '.1299rif.net', '3': '.asw22.my.id', '4': '.chat18.my.id', '5': '.dekrif.my.id', '6': '.news22.my.id', '7': '.newz22.xyz', '8': '.ngent.my.id', '9': '.rif22.xyz', '10': '.trbru20222.xyz' },
-            zona: { '1': 'a9cc7c97f7ab3e8b8186f61b610a7ce1', '2': 'edec64273fc8030e35feea9fb9f06eaa', '3': '1623b24728eb2904e36668f48229af64', '4': 'f8f65f43aec5495eb49f05ebd29f7bab', '5': '21cf31334ed9087c8e0f0ba9fdd8743f', '6': '65a1572286ddd98f00e98f2ab67e227c', '7': '91c1e81efe58b917636c70c72081062a', '8': 'd688e0c511139becd70e3f0504d7d9d6', '9': '324003c04345947d3eb92692a14afd13', '10': '94d1bec4971694ab9d81f8a4b669d071' },
-            tersedia: ['1','2','3','4','5','6','7','8','9','10',],
+            listdomain: { '1': '' },
+            zona: { '1': '' },
+            tersedia: ['1'],
             data: {
-                email: 'cgg480763@gmail.com',
-                apikey: '3f3ab5ce5b8ac4b67fd03758366f708a5ba1c',
+                email: '',
+                apikey: '',
             }
         },
-        ip: '20.213.47.147',
-        pwroot: '@@RIF010299',
-        grup: ['120363023833759590@g.us']
+        ip: '',
+        pwroot: '',
+        grup: ['']
     },
     server5: {
-        nama: '*KOVEXNESIA*',
+        nama: '',
         cloudflare: {
-            listdomain: { '1': '.terbaru457.my.id', '2': '.xcnx.my.id' },
-            zona: { '1': '71d771400007b43692d498db18c1110d', '2': '75a4a524cd9a1dec9a450743780d1a6d' },
-            tersedia: ['1','2'],
+            listdomain: { '1': '' },
+            zona: { '1': '' },
+            tersedia: ['1'],
             data: {
-                email: 'tsaqifot@gmail.com',
-                apikey: 'f9f8a3d53f1997248f02ae1add7a678e30a30',
+                email: '',
+                apikey: '',
             }
         },
-        ip: '20.190.106.22',
-        pwroot: '@@Tsaqif89',
-        grup: ['120363023873378837@g.us']
+        ip: '',
+        pwroot: '',
+        grup: ['']
     },
     server6: {
         nama: '',
@@ -1495,7 +1494,7 @@ module.exports = kurr = async (kurr, mek) => {
                 break
             case 'speed':
             case 'ping':
-                ini_txt = ` *Bot Merespon Dalam ${latensyi.toFixed(4)} DETIK*
+                ini_txt = ` Bot Merespon Dalam ${latensyi.toFixed(4)} DETIK
                 `
                 reply(ini_txt); console.log(from)
                 break
